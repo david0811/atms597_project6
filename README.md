@@ -1,2 +1,2 @@
-# atms597_project6
-ATMS 597 Project 6 Group D
+# ATMS 597 Project 6 Group D
+## Group Members: Sarah Szymborski, Michael Sessa, David Lafferty
