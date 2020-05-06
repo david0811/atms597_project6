@@ -9,9 +9,9 @@ Use a neural network to predict 4 daily weather variables for Champaign, IL: max
 
 <b>Results:</b><br>
 (All results are RMSE for test data)<br>
-Maximum Temperature: 1.87$^\circ C$<br>
-Minimum Temperature: 1.99$^\circ C$<br>
-Maximum Wind Speed: 1.58$m/s$<br>
-Total Precipitation: 4.17$mm$<br>
+Maximum Temperature: 1.87 $ ^\circ C $ <br>
+Minimum Temperature: 1.99 $ ^\circ C $ <br>
+Maximum Wind Speed: 1.58 $ m/s $ <br>
+Total Precipitation: 4.17 $ mm $ <br>
 <br>
 Our presentations slideshow can be found [here](https://docs.google.com/presentation/d/1Vbn-lfG2Pqav0wvZa_5e79oAYcXZHLiSHAU5CfN6mOI/edit?usp=sharing)
