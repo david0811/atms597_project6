@@ -5,7 +5,7 @@ Use a neural network to predict 4 daily weather variables for Champaign, IL: max
 
 <b>Notebooks:</b>
 - `BaselineModels`: Runs the random forest baseline as well as the neural network models with a minimum of 3 layers.
-- `NeuralNetEnsemble`: Based analyzing results from the 3-layer neural networks, we implemented an emsemble method in order to improve scores. We build a 26-member ensemble of 1-layer neural networks with 4-30 neurons in the layer for each target variable. This ultimately provides our lowest RMSE values.
+- `NeuralNetEnsemble`: Based on analyzing the results from the 3-layer neural networks, we implemented an emsemble method in order to improve scores. We build a 26-member ensemble of 1-layer neural networks with 4-30 neurons in the layer for each target variable. This ultimately provides our lowest RMSE values.
 
 <b>Results:</b><br>
 (All results are RMSE for test data)<br>
